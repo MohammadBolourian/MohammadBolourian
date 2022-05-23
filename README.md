@@ -16,7 +16,15 @@ Software master student ⚡
   <li>Javascript, Jquery, Vuejs ✨</li>
   <li>PHP, Laravel, SQL 🌱</li>
 </ul>
-
+<h2>Interested in learning</h2>
+<br>
+<ul>
+  <li> I’m currently learning ReactJs 🌱</li>
+  <li>React Native ✨</li>
+ 
+</ul>
+I’m currently learning ReactJs 🌱
+ReactNative
 
 
 
