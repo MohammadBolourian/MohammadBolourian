@@ -23,10 +23,6 @@ Software master student ⚡
   <li>React Native ✨</li>
  
 </ul>
-I’m currently learning ReactJs 🌱
-ReactNative
-
-
 
 <!--
 **MohammadBolourian/MohammadBolourian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
